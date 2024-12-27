@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Social links go here -->
+  <a href="https://www.linkedin.com/in/reddy-yaswanth-ram-317341292/"></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaswanthram-396&show_icons=true&locale=en&layout=compact" alt="Yaswanthram-396" /></p>
