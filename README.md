@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Social links go here -->
+  https://www.linkedin.com/in/reddy-yaswanth-ram-317341292/
   <a href="https://www.linkedin.com/in/reddy-yaswanth-ram-317341292/"></a>
 </p>
 
