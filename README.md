@@ -17,7 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaswanthram-396&show_icons=true&locale=en" alt="Yaswanthram-396" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthram-396" alt="GitHub Streak Stats for Yaswanthram-396" />
-</p>
-
