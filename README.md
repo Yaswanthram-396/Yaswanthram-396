@@ -6,15 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yaswanthram-396" alt="Yaswanthram-396" /></a> </p>
 
 
--🚀 Currently diving deep into the world of Backend Development with Node.js and Express.js — building scalable, secure, and high-performance applications.
+#🚀 Currently diving deep into the world of Backend Development with Node.js and Express.js — building scalable, secure, and high#performance applications.
 
--💻 Passionate about becoming a full-fledged MERN Stack Developer — constantly learning and refining my skills in MongoDB, Express.js, React.js, and Node.js to craft seamless end-to-end web solutions.
+#💻 Passionate about becoming a full-fledged MERN Stack Developer — constantly learning and refining my skills in MongoDB, Express.js, React.js, and Node.js to craft seamless end-to-end web solutions.
 
--🤝 Thrilled to kickstart my professional journey as a MERN Stack Intern at meetXO
+#🤝 Thrilled to kickstart my professional journey as a MERN Stack Intern @t meetXO gaining hands-on industry experience, working on real-world projects, and collaborating with talented teams to bring innovative ideas to life.
 
--📚 Always exploring new technologies, best practices, and staying updated with the latest trends in the world of web development.
+#📚 Always exploring new technologies, best practices, and staying updated with the latest trends in the world of web development.
 
--🔥 Let’s build something amazing together!
+#🔥 Let’s build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
