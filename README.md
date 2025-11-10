@@ -1,28 +1,83 @@
-<h1 align="center">Hi 👋, I'm yaswanth ram</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<!-- 💫 Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=200&color=F78C6B&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Yaswanth+Ram!;MERN+Stack+Developer+💻;Tech+Enthusiast+🚀;Let's+Build+Something+Awesome!">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yaswanthram-396&label=Profile%20views&color=0e75b6&style=flat" alt="Yaswanthram-396" /> </p>
+<h3 align="center">💡 Passionate MERN Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yaswanthram-396" alt="Yaswanthram-396" /></a> </p>
+---
 
+### 🚀 About Me
 
-#🚀 Currently diving deep into the world of Backend Development with Node.js and Express.js — building scalable, secure, and high#performance applications.
+- 🔭 Currently diving deep into **Backend Development** using **Node.js + Express.js**  
+- ⚙️ Building **scalable, secure, and high-performance applications**  
+- 💻 On my path to becoming a **Full-fledged MERN Stack Developer**  
+- 🤝 MERN Stack Intern @ **MeetXO**, gaining **real-world project experience**  
+- 📚 Constantly exploring new **tech stacks, best practices, and design patterns**  
+- 💬 Ask me about **React.js, Node.js, TypeScript, MongoDB, REST APIs**  
+- 🎯 Goal: Create **impactful web solutions** that make a difference  
 
-#💻 Passionate about becoming a full-fledged MERN Stack Developer — constantly learning and refining my skills in MongoDB, Express.js, React.js, and Node.js to craft seamless end-to-end web solutions.
+---
 
-#🤝 Thrilled to kickstart my professional journey as a MERN Stack Intern @t meetXO gaining hands-on industry experience, working on real-world projects, and collaborating with talented teams to bring innovative ideas to life.
+### 🌐 Connect with Me
 
-#📚 Always exploring new technologies, best practices, and staying updated with the latest trends in the world of web development.
-
-#🔥 Let’s build something amazing together!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Social links go here -->
-  https://www.linkedin.com/in/reddy-yaswanth-ram-317341292/
+<p align="center">
+  <a href="https://www.linkedin.com/in/reddy-yaswanth-ram-317341292/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:yaswanthramreddy396@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Yaswanthram-396">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaswanthram-396&show_icons=true&locale=en&layout=compact" alt="Yaswanthram-396" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaswanthram-396&show_icons=true&locale=en" alt="Yaswanthram-396" /></p>
+### 🧠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode,bootstrap,tailwind" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yaswanthram-396&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthram-396&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthram-396&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yaswanthram-396&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🔥 Fun Touch
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### ⚡ Quick Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yaswanthram-396&label=Profile%20Views&color=F78C6B&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+<h3 align="center">✨ Let's Connect & Collaborate to Build Something Amazing ✨</h3>
