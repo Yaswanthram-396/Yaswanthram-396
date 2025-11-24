@@ -15,8 +15,6 @@
 
 - 🧠 Focused on **Backend Development** — crafting scalable APIs with **Node.js & Express.js**  
 - 💻 Growing as a **Full-Stack (MERN)** Developer  
-- 🤝 Currently a **MERN Stack Intern** @ MeetXO  
-- 🌱 Exploring **TypeScript, Redux, and System Design**  
 - ⚙️ Belief: *“Clean code. Clear logic. Creative UI.”*  
 - 🎯 Goal: Become a **Complete Product Engineer**  
 
