@@ -37,9 +37,9 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaswanthram-396&show_icons=true&theme=radical&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yaswanthram-396&theme=radical&hide_border=true" />
