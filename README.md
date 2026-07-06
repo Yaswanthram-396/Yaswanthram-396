@@ -136,14 +136,6 @@ My primary interests include backend architecture, scalable APIs, distributed sy
 
 ---
 
-# Competitive Programming
-
-| Platform | Rating |
-|----------|--------|
-| CodeChef | **1570** |
-| Codeforces | **1230** |
-
----
 
 # Contributions
 
